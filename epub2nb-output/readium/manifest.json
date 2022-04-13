@@ -1,0 +1,308 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Italské listy",
+    "identifier": "d93d8f2b-e7ce-446b-bdb3-281192197658",
+    "author": "Karel Čapek",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs",
+    "modified": "2017-11-30T00:00:00.000Z",
+    "published": "2018-01-19T00:00:00.000Z",
+    "Sigil version": "0.9.6"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/italske_listy_001.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/italske_listy_002.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/italske_listy_003.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/italske_listy_004.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/italske_listy_005.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/italske_listy_006.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/italske_listy_007.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/italske_listy_008.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/italske_listy_009.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/italske_listy_010.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/italske_listy_011.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/italske_listy_012.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/italske_listy_013.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/italske_listy_014.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/italske_listy_015.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/italske_listy_016.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/italske_listy_017.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/italske_listy_018.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/italske_listy_019.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/italske_listy_020.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/italske_listy_021.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/italske_listy_022.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/italske_listy_023.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/italske_listy_024.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/italske_listy_025.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/italske_listy_026.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/italske_listy_027.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/italske_listy_028.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/italske_listy_029.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/italske_listy_030.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/italske_listy_031.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/italske_listy_032.html"
+    }
+  ],
+  "resources": [
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002.jpg"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image003.png"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/page_styles.css"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/stylesheet.css"
+    },
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Předmluva",
+      "href": "OEBPS/Text/italske_listy_005.html"
+    },
+    {
+      "title": "Úvodem",
+      "href": "OEBPS/Text/italske_listy_006.html"
+    },
+    {
+      "title": "Benátky",
+      "children": [
+        {
+          "title": "I.",
+          "href": "OEBPS/Text/italske_listy_007.html#sigil_toc_id_1"
+        },
+        {
+          "title": "II.",
+          "href": "OEBPS/Text/italske_listy_007.html#sigil_toc_id_2"
+        }
+      ],
+      "href": "OEBPS/Text/italske_listy_007.html"
+    },
+    {
+      "title": "Padova, Ferrara",
+      "href": "OEBPS/Text/italske_listy_008.html"
+    },
+    {
+      "title": "Ravenna, San Marino",
+      "href": "OEBPS/Text/italske_listy_009.html"
+    },
+    {
+      "title": "Florencie",
+      "href": "OEBPS/Text/italske_listy_010.html"
+    },
+    {
+      "title": "Siena, Orvieto",
+      "href": "OEBPS/Text/italske_listy_011.html"
+    },
+    {
+      "title": "Řím",
+      "href": "OEBPS/Text/italske_listy_012.html"
+    },
+    {
+      "title": "Lid neapolský",
+      "children": [
+        {
+          "title": "I.",
+          "href": "OEBPS/Text/italske_listy_013.html#sigil_toc_id_3"
+        },
+        {
+          "title": "II.",
+          "href": "OEBPS/Text/italske_listy_013.html#sigil_toc_id_4"
+        }
+      ],
+      "href": "OEBPS/Text/italske_listy_013.html"
+    },
+    {
+      "title": "Palermo",
+      "href": "OEBPS/Text/italske_listy_014.html"
+    },
+    {
+      "title": "Od Palerma po Taorminu",
+      "href": "OEBPS/Text/italske_listy_015.html"
+    },
+    {
+      "title": "V Boží dlani",
+      "href": "OEBPS/Text/italske_listy_016.html"
+    },
+    {
+      "title": "Podzemní města",
+      "href": "OEBPS/Text/italske_listy_017.html"
+    },
+    {
+      "title": "Antika",
+      "href": "OEBPS/Text/italske_listy_018.html"
+    },
+    {
+      "title": "Z Říma",
+      "href": "OEBPS/Text/italske_listy_019.html"
+    },
+    {
+      "title": "Sladká Umbrie",
+      "href": "OEBPS/Text/italske_listy_020.html"
+    },
+    {
+      "title": "Toskána",
+      "href": "OEBPS/Text/italske_listy_021.html"
+    },
+    {
+      "title": "Janov a Milán",
+      "href": "OEBPS/Text/italske_listy_022.html"
+    },
+    {
+      "title": "Moře",
+      "href": "OEBPS/Text/italske_listy_023.html"
+    },
+    {
+      "title": "Verona",
+      "href": "OEBPS/Text/italske_listy_024.html"
+    },
+    {
+      "title": "Kostely",
+      "href": "OEBPS/Text/italske_listy_025.html"
+    },
+    {
+      "title": "Bolzano",
+      "href": "OEBPS/Text/italske_listy_026.html"
+    },
+    {
+      "title": "Paralipomena",
+      "href": "OEBPS/Text/italske_listy_027.html"
+    },
+    {
+      "title": "Ediční poznámka",
+      "href": "OEBPS/Text/italske_listy_028.html"
+    },
+    {
+      "title": "Život a doba spisovatele Karla Čapka v datech",
+      "href": "OEBPS/Text/italske_listy_029.html"
+    },
+    {
+      "title": "První vydání knih Karla Čapka",
+      "href": "OEBPS/Text/italske_listy_030.html"
+    },
+    {
+      "title": "Poznámky pod čarou",
+      "href": "OEBPS/Text/italske_listy_031.html"
+    }
+  ]
+}

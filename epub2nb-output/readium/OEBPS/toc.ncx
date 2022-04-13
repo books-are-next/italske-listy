@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="d93d8f2b-e7ce-446b-bdb3-281192197658" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Italské listy</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Předmluva</text>
+      </navLabel>
+      <content src="Text/italske_listy_005.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Úvodem</text>
+      </navLabel>
+      <content src="Text/italske_listy_006.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Benátky</text>
+      </navLabel>
+      <content src="Text/italske_listy_007.html"/>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>I.</text>
+        </navLabel>
+        <content src="Text/italske_listy_007.html#sigil_toc_id_1"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>II.</text>
+        </navLabel>
+        <content src="Text/italske_listy_007.html#sigil_toc_id_2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Padova, Ferrara</text>
+      </navLabel>
+      <content src="Text/italske_listy_008.html"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Ravenna, San Marino</text>
+      </navLabel>
+      <content src="Text/italske_listy_009.html"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Florencie</text>
+      </navLabel>
+      <content src="Text/italske_listy_010.html"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Siena, Orvieto</text>
+      </navLabel>
+      <content src="Text/italske_listy_011.html"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Řím</text>
+      </navLabel>
+      <content src="Text/italske_listy_012.html"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Lid neapolský</text>
+      </navLabel>
+      <content src="Text/italske_listy_013.html"/>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>I.</text>
+        </navLabel>
+        <content src="Text/italske_listy_013.html#sigil_toc_id_3"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>II.</text>
+        </navLabel>
+        <content src="Text/italske_listy_013.html#sigil_toc_id_4"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Palermo</text>
+      </navLabel>
+      <content src="Text/italske_listy_014.html"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Od Palerma po Taorminu</text>
+      </navLabel>
+      <content src="Text/italske_listy_015.html"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>V Boží dlani</text>
+      </navLabel>
+      <content src="Text/italske_listy_016.html"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Podzemní města</text>
+      </navLabel>
+      <content src="Text/italske_listy_017.html"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Antika</text>
+      </navLabel>
+      <content src="Text/italske_listy_018.html"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Z Říma</text>
+      </navLabel>
+      <content src="Text/italske_listy_019.html"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>Sladká Umbrie</text>
+      </navLabel>
+      <content src="Text/italske_listy_020.html"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>Toskána</text>
+      </navLabel>
+      <content src="Text/italske_listy_021.html"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>Janov a Milán</text>
+      </navLabel>
+      <content src="Text/italske_listy_022.html"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>Moře</text>
+      </navLabel>
+      <content src="Text/italske_listy_023.html"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>Verona</text>
+      </navLabel>
+      <content src="Text/italske_listy_024.html"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>Kostely</text>
+      </navLabel>
+      <content src="Text/italske_listy_025.html"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>Bolzano</text>
+      </navLabel>
+      <content src="Text/italske_listy_026.html"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>Paralipomena</text>
+      </navLabel>
+      <content src="Text/italske_listy_027.html"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>Ediční poznámka</text>
+      </navLabel>
+      <content src="Text/italske_listy_028.html"/>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>Život a doba spisovatele Karla Čapka v datech</text>
+      </navLabel>
+      <content src="Text/italske_listy_029.html"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>První vydání knih Karla Čapka</text>
+      </navLabel>
+      <content src="Text/italske_listy_030.html"/>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>Poznámky pod čarou</text>
+      </navLabel>
+      <content src="Text/italske_listy_031.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
