@@ -2,38 +2,18 @@
   "author": "Karel Čapek",
   "contenttype": "prose",
   "edition": "beletrie",
-  "identifier": "capek-italske-listy-20579bb",
+  "identifier": "capek-italske-listy-0afcb8e",
   "languagecode": "cs",
   "modified": "2017-11-30T00:00:00.000Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Italské listy",
-  "revision": "20579bb",
+  "revision": "0afcb8e",
   "generatedAt": {
-    "date": "Wed Apr 13 2022 17:42:30 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1649871750283
+    "date": "Wed Apr 13 2022 17:51:45 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1649872305362
   },
   "documents": [
-    {
-      "title": "Italské listy",
-      "file": "italske_listy_001.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 0,
-      "prev": null,
-      "next": "italske_listy_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
     {
       "title": "Italské listy",
       "file": "italske_listy_002.html",
@@ -41,48 +21,8 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 1,
-      "prev": "italske_listy_001.html",
-      "next": "italske_listy_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Italské listy",
-      "file": "italske_listy_003.html",
-      "words": 4,
-      "chars": 24,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 2,
-      "prev": "italske_listy_002.html",
-      "next": "italske_listy_004.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Italské listy",
-      "file": "italske_listy_004.html",
-      "words": 81,
-      "chars": 547,
-      "ideas": 7,
-      "role": "chapter",
-      "order": 3,
-      "prev": "italske_listy_003.html",
+      "order": 0,
+      "prev": null,
       "next": "italske_listy_005.html",
       "toc": [
         {
@@ -101,8 +41,8 @@
       "chars": 931,
       "ideas": 6,
       "role": "chapter",
-      "order": 4,
-      "prev": "italske_listy_004.html",
+      "order": 1,
+      "prev": "italske_listy_002.html",
       "next": "italske_listy_006.html",
       "toc": [
         {
@@ -121,7 +61,7 @@
       "chars": 2691,
       "ideas": 7,
       "role": "chapter",
-      "order": 5,
+      "order": 2,
       "prev": "italske_listy_005.html",
       "next": "italske_listy_007.html",
       "toc": [
@@ -141,7 +81,7 @@
       "chars": 7074,
       "ideas": 10,
       "role": "chapter",
-      "order": 6,
+      "order": 3,
       "prev": "italske_listy_006.html",
       "next": "italske_listy_008.html",
       "toc": [
@@ -176,7 +116,7 @@
       "chars": 3856,
       "ideas": 7,
       "role": "chapter",
-      "order": 7,
+      "order": 4,
       "prev": "italske_listy_007.html",
       "next": "italske_listy_009.html",
       "toc": [
@@ -196,7 +136,7 @@
       "chars": 3888,
       "ideas": 8,
       "role": "chapter",
-      "order": 8,
+      "order": 5,
       "prev": "italske_listy_008.html",
       "next": "italske_listy_010.html",
       "toc": [
@@ -216,7 +156,7 @@
       "chars": 4075,
       "ideas": 5,
       "role": "chapter",
-      "order": 9,
+      "order": 6,
       "prev": "italske_listy_009.html",
       "next": "italske_listy_011.html",
       "toc": [
@@ -236,7 +176,7 @@
       "chars": 3992,
       "ideas": 5,
       "role": "chapter",
-      "order": 10,
+      "order": 7,
       "prev": "italske_listy_010.html",
       "next": "italske_listy_012.html",
       "toc": [
@@ -256,7 +196,7 @@
       "chars": 3715,
       "ideas": 7,
       "role": "chapter",
-      "order": 11,
+      "order": 8,
       "prev": "italske_listy_011.html",
       "next": "italske_listy_013.html",
       "toc": [
@@ -276,7 +216,7 @@
       "chars": 7258,
       "ideas": 12,
       "role": "chapter",
-      "order": 12,
+      "order": 9,
       "prev": "italske_listy_012.html",
       "next": "italske_listy_014.html",
       "toc": [
@@ -311,7 +251,7 @@
       "chars": 4186,
       "ideas": 7,
       "role": "chapter",
-      "order": 13,
+      "order": 10,
       "prev": "italske_listy_013.html",
       "next": "italske_listy_015.html",
       "toc": [
@@ -331,7 +271,7 @@
       "chars": 3672,
       "ideas": 8,
       "role": "chapter",
-      "order": 14,
+      "order": 11,
       "prev": "italske_listy_014.html",
       "next": "italske_listy_016.html",
       "toc": [
@@ -351,7 +291,7 @@
       "chars": 3789,
       "ideas": 6,
       "role": "chapter",
-      "order": 15,
+      "order": 12,
       "prev": "italske_listy_015.html",
       "next": "italske_listy_017.html",
       "toc": [
@@ -371,7 +311,7 @@
       "chars": 5020,
       "ideas": 5,
       "role": "chapter",
-      "order": 16,
+      "order": 13,
       "prev": "italske_listy_016.html",
       "next": "italske_listy_018.html",
       "toc": [
@@ -391,7 +331,7 @@
       "chars": 4452,
       "ideas": 7,
       "role": "chapter",
-      "order": 17,
+      "order": 14,
       "prev": "italske_listy_017.html",
       "next": "italske_listy_019.html",
       "toc": [
@@ -411,7 +351,7 @@
       "chars": 3455,
       "ideas": 4,
       "role": "chapter",
-      "order": 18,
+      "order": 15,
       "prev": "italske_listy_018.html",
       "next": "italske_listy_020.html",
       "toc": [
@@ -431,7 +371,7 @@
       "chars": 3756,
       "ideas": 7,
       "role": "chapter",
-      "order": 19,
+      "order": 16,
       "prev": "italske_listy_019.html",
       "next": "italske_listy_021.html",
       "toc": [
@@ -451,7 +391,7 @@
       "chars": 3687,
       "ideas": 5,
       "role": "chapter",
-      "order": 20,
+      "order": 17,
       "prev": "italske_listy_020.html",
       "next": "italske_listy_022.html",
       "toc": [
@@ -471,7 +411,7 @@
       "chars": 4037,
       "ideas": 5,
       "role": "chapter",
-      "order": 21,
+      "order": 18,
       "prev": "italske_listy_021.html",
       "next": "italske_listy_023.html",
       "toc": [
@@ -491,7 +431,7 @@
       "chars": 2502,
       "ideas": 4,
       "role": "chapter",
-      "order": 22,
+      "order": 19,
       "prev": "italske_listy_022.html",
       "next": "italske_listy_024.html",
       "toc": [
@@ -511,7 +451,7 @@
       "chars": 3686,
       "ideas": 4,
       "role": "chapter",
-      "order": 23,
+      "order": 20,
       "prev": "italske_listy_023.html",
       "next": "italske_listy_025.html",
       "toc": [
@@ -531,7 +471,7 @@
       "chars": 3856,
       "ideas": 6,
       "role": "chapter",
-      "order": 24,
+      "order": 21,
       "prev": "italske_listy_024.html",
       "next": "italske_listy_026.html",
       "toc": [
@@ -551,7 +491,7 @@
       "chars": 3445,
       "ideas": 5,
       "role": "chapter",
-      "order": 25,
+      "order": 22,
       "prev": "italske_listy_025.html",
       "next": "italske_listy_027.html",
       "toc": [
@@ -571,7 +511,7 @@
       "chars": 4967,
       "ideas": 6,
       "role": "chapter",
-      "order": 26,
+      "order": 23,
       "prev": "italske_listy_026.html",
       "next": "italske_listy_028.html",
       "toc": [
@@ -591,7 +531,7 @@
       "chars": 606,
       "ideas": 4,
       "role": "chapter",
-      "order": 27,
+      "order": 24,
       "prev": "italske_listy_027.html",
       "next": "italske_listy_029.html",
       "toc": [
@@ -611,7 +551,7 @@
       "chars": 2024,
       "ideas": 33,
       "role": "chapter",
-      "order": 28,
+      "order": 25,
       "prev": "italske_listy_028.html",
       "next": "italske_listy_030.html",
       "toc": [
@@ -631,7 +571,7 @@
       "chars": 1155,
       "ideas": 67,
       "role": "chapter",
-      "order": 29,
+      "order": 26,
       "prev": "italske_listy_029.html",
       "next": "italske_listy_031.html",
       "toc": [
@@ -651,9 +591,9 @@
       "chars": 1769,
       "ideas": 27,
       "role": "chapter",
-      "order": 30,
+      "order": 27,
       "prev": "italske_listy_030.html",
-      "next": "italske_listy_032.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
@@ -665,20 +605,20 @@
       ]
     },
     {
-      "title": "Italské listy",
-      "file": "italske_listy_032.html",
-      "words": 48,
-      "chars": 316,
-      "ideas": 13,
-      "role": "chapter",
-      "order": 31,
+      "title": "Tiráž • Italské listy",
+      "file": "colophon.html",
+      "words": 134,
+      "chars": 892,
+      "ideas": 23,
+      "role": "colophon",
+      "order": null,
       "prev": "italske_listy_031.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tiráž",
           "id": null,
           "children": []
         }
@@ -692,9 +632,9 @@
       "ideas": 304
     },
     "chapters": {
-      "words": 16007,
-      "chars": 98431,
-      "ideas": 299
+      "words": 15874,
+      "chars": 97544,
+      "ideas": 277
     }
   }
 }
