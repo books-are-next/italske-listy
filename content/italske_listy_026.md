@@ -1,8 +1,7 @@
 ---
+title: Bolzano
 contentType: prose
 ---
-
-## Bolzano
 
 Dříve se tomu říkalo „věrné Tyroly“; dnes to je provincie Benátská, a za padesát let to snad bude země docela taliánská; až to člověka zaráží, jak tu ta italština zapouští kořínky. Děti žvatlají jednu větu německy a druhou italsky; sedláček ve vlaku se honem chlubí, jak už dovede cedit vlaštinu svým požehnaným voletem; služky jsou celé pryč za kudrnatými kluky italské posádky. Jinak noví páni země mají jakés takés ohledy; nechávají zdejším Němcům jejich vlastenecké pomníky a jména ulic a nevím co ještě. Krom posádek sem posílají na výboj školní výpravy; mně jeden takový desetiletý fašista zničehonic vynadal šubjaků; nevím, co to je, ale tvářil se přitom velmi hrdinně a nacionálně.
 

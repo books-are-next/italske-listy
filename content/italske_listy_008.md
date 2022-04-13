@@ -1,8 +1,9 @@
 ---
+title: |-
+  Padova,
+  Ferrara
 contentType: prose
 ---
-
-## Padova, Ferrara
 
 Vyznačují-li se Benátky nejvydatněji kanály, gondolami a turisty, je Padova charakterizována podloubími a velocipedy, Ferrara pak velocipedy, cihlovými paláci a románským slohem. Velocipedy nechám stranou; doufám, že za to také ony mne nechají stranou. Co se týče Padovy, tož vězte, že vidět za jedno ráno nejkrásnější díla Giottova, Mantegnova a Donatellova jest veliká milost, dar Boží a radost podobná snu. Je to jen maličký, holý kostelíček, ta Santa Maria dell’Arena; ale Giotto jej uvnitř pomaloval od hlavy až k patě, místečka nevynechávaje, a vyplnil jej svou nádhernou, prostou logikou malíře a křesťana, neboť Giotto byl duch skrznaskrz rozumný, zbožný a jasný. A Mantegna, ocelový kreslíř, tvrdý, břitký, já nevím jak to říci: strašný formalista, ale zastřený závojem bůhvíjaké divné, sličné a přísné tesknoty. A Donatello, vášnivý smutek sám, jakási mlčenlivá, zahryznutá hořkost ducha příliš dokonalého. Všichni tři z nejmužštějších mezi umělci. Svatý den, kdy lze poznati tyto tři.
 

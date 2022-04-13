@@ -1,8 +1,7 @@
 ---
+title: V Boží dlani
 contentType: prose
 ---
-
-## V Boží dlani
 
 Vždycky se říká: Když někam jedete, naučte se tamnímu jazyku, abyste líp pronikli duši lidu, a kdesi cosi. Nuže, v takovém případě proniknete duši lidu asi tak, jako kdybyste jeli do Nového Bydžova; rozumíte všem hloupostem, které si lidé říkají, a kladete jim zbytečné otázky, jako například, jak se jmenuje tamhleta hora nebo kolik minut má tenhle vlak zpoždění.
 

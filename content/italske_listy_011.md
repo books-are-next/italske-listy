@@ -1,8 +1,9 @@
 ---
+title: |-
+  Siena,
+  Orvieto
 contentType: prose
 ---
-
-## Siena, Orvieto
 
 Siena, to je takové neobyčejně milé malé město, sedí na třech kopečkách a usmívá se, ať mu stéká po zádech vlahý déšť, nebo ať svítí slunce; má pár kousků slavných památek, ale je samo a celé líbeznou starou památkou. Samá dobrá, rozšafná cihlová gotika, jen s několika hrozinkami rané renesance; ale není to nasupená, válečná gotika ani pevnostní, tvrdá, nedobytná renesance takového paláce Strozzi; všecko je jaksi intimní, veselejší, sličnější než jinde. Vlastně jel jsem do Sieny kvůli Ducciovi di Buoninsegna, sienskému Giottovi; ale kupodivu, mírný a lahodně monumentální Giotto by vlastně zapadal lépe do Sieny než naturalističtější a střízlivější Duccio. Nejpěknější je toulat se po ulicích, jež běhají nahoru a dolů jako nějaká rozdováděná skluzavka, a koukat se na ten proužek modrého nebe mezi rudým cimbuřím starých domů a na zelené vlny toskánských kopečků kolem dokola. Vlastně toskánský kraj je tuze podobný hezké krajině v Čechách; jenže místo brambor tu roste réva, a každý kopeček je přepěkně korunován nějakým věžovitým městečkem nebo starou zámeckou tvrzí. Odtud, ze Sieny, pocházel Eneáš Silvius Piccolomini, který měl svého času co dělat s Jiříkem Poděbradským a později se stal papežem; v dómě je knihovna, kde Pinturicchio vymaloval jeho činy; blahoslavený sienský vzduch nechal ty fresky v takové svěžesti, jako by byl starý Pinturicchio teprve včera domázl poslední pestrou arabesku kolem okna. A pak je tu gotická radnice, uvnitř vyšitá freskami od hlavy až k patě, a dóm, celý zevně i uvnitř vykládaný barevnými mramory, s fasádou už tuze přezdobenou a s podlahou celou sgrafitovou, a krásné velikánské náměstí, a Fonte Gaja, a Lorenzettiho Mír, a celá spousta utěšených, přívětivých věcí; to vše a ještě víc tu mají.
 

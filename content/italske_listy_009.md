@@ -1,8 +1,9 @@
 ---
+title: |-
+  Ravenna,
+  San Marino
 contentType: prose
 ---
-
-## Ravenna, San Marino
 
 Ravenna, sama o sobě polomrtvé město bez osobitého rázu; nadto je jakýsi svátek fascistů, i běhají tito „černokošilatí“ s puškami a kapelami po městě, samé fascio, dědečkové garibaldiáni, muzika, průvody a průtahy. Mimochodem, fascisté v uniformě vypadají hodně jako naši kominíci; i takový jakýsi černý čepeček s třapcem nosí, i zuby jim tak svítí; kuriózní dojem.
 

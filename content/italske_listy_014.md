@@ -1,8 +1,7 @@
 ---
+title: Palermo
 contentType: prose
 ---
-
-## Palermo
 
 Raději bych toto ani nepsal, neboť stydím se, že nedovedu přesně říci, je-li nejkrásnější věcí na světě plavba po moři nebo Monreale nebo zahrádka v San Giovanni degli Eremiti. Co se Palerma týče, byl bych vám ještě včera napsal, že to je nejčistší město z celé Itálie; dnes, kdy jsem se potloukal kolem přístavu Cala, myslím, že je nejšpinavější, počítaje v to i Neapol i Rocca di Papa. Zato nesporná přednost Siciliánů je, že skoro vůbec nežebrají; zdají se vůbec přísnější a důstojnější než ti kudrnatí Neapolitáni tam nahoře, snad vlivem španělské kultury. Španělský vliv je poslední; první je řecký, druhý a třetí je saracénský a normanský; renesance sem zasáhla jen tak šejdrem. Ty různé kulturní složky zalijte oslňujícím sluncem, africkou půdou, spoustou prachu a překrásnou vegetací, a máte Sicílii.
 

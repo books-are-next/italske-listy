@@ -1,10 +1,11 @@
 ---
+title: |-
+  Lid
+  neapolský
 contentType: prose
 ---
 
-## Lid neapolský
-
-### I.
+## I.
 
 Nebudu vám psát o Vesuvu ani o Modré jeskyni. Zejména pak vám nebudu psát o moři; slušný člověk nemluví o krásách své byť jen dočasné lásky. Krom té krásné přírody je tu hlavní znamenitostí původní neapolský lid.
 
@@ -16,7 +17,7 @@ Sedíš u večeře ve slušném hotýlku; dole je moře, nahoře dýmá Vesuv, n
 
 Nuže, nejsem člověk mrhačný a nedám, co nemusím; ale prosím vás, až se vrátím, nepodávejte mi nikdo ruku, abych vám snad do ní nestrčil diškereci. Nebo mi probůh řekněte: je ještě na světě něco, co je zadarmo?
 
-### II.
+## II.
 
 Budiž po pravdě řečeno: s krásou Neapole to je tak trochu švindl. Neapol není krásná, pokud se na ni nedíváte zdálky. Zdálky to leží zlatě ve sluníčku, moře je modré, jak si jen můžete představit, tuhle napřed pěkná pinie, tamhle to modré je Capri, Vesuv vydechuje kousek bělavé vaty, Sorrento daleko a čisťounce svítí, – Bože, je to hezké. A pak se udělá soumrak, vše promodrá a proskočí světélky, a teď to je celý polokruh jiskřiček, a po moři se nese loď a svítí zelenými, modrými, zlatými světly: Bože, je to hezké! Ale pojď do města, člověče; putuj ulicemi, mrkej na vše českými kukadly a těš se, jak můžeš z malebnosti tohoto života; za chvíli ti bude z něho trochu nanic. Snad jsou ty ulice pitoreskní; ale rozhodně jsou velmi ošklivé. Potloukáš se pod girlandami špinavého prádla, raze si cestu mezi všelikou verbeží, osly, všiváky, kozami, dětmi, auty, koši se zeleninou a jinými podezřelými svinstvy, dílnami, jež vyhřezly přes chodník do půl ulice, odpadky, plavci, rybami, drožkami, hlavaticemi, kameloty, načesanými holkami, umazanými haranty rozvalenými na zemi; všecko se tlačí, povykuje, řeže bez milosti do hovad, vyvolává, nabízí, řve, práská bičem a šidí. Jak se zdá, pravým živlem Neapolitána je něco prodávat; vezme se židle, staré šle, tři svíčky a smradlavá kambala[\[8\]](./resources/undefined); pak se nad tím po celý den zpívá jakési zaklínání, a to je obchod smíšeným zbožím. Tuhle ubohý slepec prodává sedm holí; slituješ se a kupuješ jednu; ubohý slepec chce za ni dvacet lir, ty mu dáš pět a jdeš; věz tedy, že jsi se strašně napálil. Tady jde chlapík, nese na rameně židli, a aby mu nebylo smutno, troubí si pochod na křídlovku. Měl jsem to neštěstí, že jsem přijel do Neapole půl hodiny po italském králi; bylo patrně velké vítání, ulice jsou zataraseny drožkami, auty, kárami, osly, nejdivnějšími rachotinami; aby jim ušla chvíle, kopou kočové do svých hovad a práskají biči, šoféři vytrubují, všecko zběsile řve, někde v přístavu houkají děla; jakživ jsem neslyšel takovou melu. A lidi, italské parádní uniformy, to vám je teprve merenda! Nikdy bych nevěřil, že může mužský na sebe navěšet takové baldachýny, péra, šňůry, třapce a šerpy, lampasy, chocholy, postroje a lanoví, krumplování, cecíky, pozamenty a girlandy jako velcí i malí hodnostáři této malebné země. Abych nezapomněl, viděl jsem pak krále ujíždět ulicemi; nadšený lid mu jednoduše tleskal, jako v divadle.
 

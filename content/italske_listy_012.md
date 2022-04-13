@@ -1,8 +1,7 @@
 ---
+title: Řím
 contentType: prose
 ---
-
-## Řím
 
 Bůh ví, raději bych psal o Rocca di Papa než o Římě. Rocca di Papa je takové malinké skalní hnízdo vysoko v albánských horách; po ulicích teče shora močůvka, ve které se válejí černé kozy a ještě černější děti, strašná spousta dětí; ulice, to jsou prostě schody, a domy, to jsou cosi jako černé kamenné buňky, jež – kupodivu – zdálky, z oken Vatikánu třeba, vypadají jako bílé kostečky cukru. To je Rocca di Papa. Ale Rocca di Papa nikoho veřejně nezajímá, Rocca di Papa není kulturní problém, a tedy vraťme se do Říma.
 

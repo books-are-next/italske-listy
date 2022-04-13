@@ -1,8 +1,7 @@
 ---
+title: Úvodem
 contentType: prose
 ---
-
-## Úvodem
 
 Nežli jsem vyjel, poslali mi dobří přátelé tlusté svazky o italských dějinách, o starém Římě, o umění vůbec a jiných věcech s důtklivou radou, abych si to vše přečetl. Naneštěstí jsem tak neučinil; následek této nedbalosti je tahle knížka.
 
@@ -12,6 +11,6 @@ A tedy putoval jsem nejen beze všech užitečných znalostí, nýbrž i bez pl�
 
 Na tomto světě má se však vidět všechno; vše stojí za vidění, každá ulice a každý člověk, každá věc chudá i slavná. Není ničeho, co by nezasloužilo zájmu a pohledu. Rád jsem brousil končinami, ve kterých bedekr neklade pražádnou pozoruhodnost, a nelitoval jsem žádného kroku a vlezl jsem, kam se dalo, třeba hodným lidem na chodbu; někdy jsem se díval na památky nejslavnější a někdy jen na děti, na staré babičky, na lidskou bídu a radost, na zvířata nebo lidem do oken. Ale když jsem pak chtěl napsat, co jsem viděl, tu jsem se jaksi ostýchal povídat o věcech tak nepatrných, nebo jsem to dělal z ješitnosti anebo z osobní mánie, – zkrátka koneckonců psal jsem zrovna jen a ponejvíce o všelijakých slavných památkách. A proto nyní kladu úvodem
 
-VÝSTRAHU
+**VÝSTRAHU**
 
 všem, kdo budou čísti tuto knížku, aby ji nepovažovali za průvodce, ani za cestopis, aniž za cicerona, nýbrž za cokoliv jiného budou chtít; a aby až sami někam pojedou, spoléhali krom jízdního řádu jen a jen na zvláštní milost, jež doprovází pocestný lid a ukáže mu více, než vůbec je možno napsat a vypravovat.
