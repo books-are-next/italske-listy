@@ -1,1 +1,716 @@
-{}
+{
+  "params": {
+    "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
+      "title": "Italské listy",
+      "identifier": "d93d8f2b-e7ce-446b-bdb3-281192197658",
+      "author": "Karel Čapek",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2017-11-30T00:00:00.000Z",
+      "edition": "beletrie",
+      "publisherShort": "mkp"
+    },
+    "elements": {
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nmlpuroven2kapitola",
+      "subtitle": "",
+      "h2": "MLP-uroven3-nadpis\nmlpuroven3nadpis",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brAfter": "",
+      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
+      "figure": "MLP_obrazky\nMLP-obrazky",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nmlpdopispodpisi\nmlpznakkurziva11b",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf\nmlptextbez1radkub\nmlptextuprostredi-b\nmlptirazautoranazev\nmlpznaktucne11b",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "listType": "plain",
+        "children": [
+          {
+            "filename": "italske_listy_001.md",
+            "xhtml": "italske_listy_001.html",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "italske_listy_002.md",
+            "xhtml": "italske_listy_002.html",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "italske_listy_003.md",
+            "xhtml": "italske_listy_003.html",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "italske_listy_004.md",
+            "xhtml": "italske_listy_004.html",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "italske_listy_005.md",
+            "xhtml": "italske_listy_005.html",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "italske_listy_006.md",
+            "xhtml": "italske_listy_006.html",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "italske_listy_007.md",
+            "xhtml": "italske_listy_007.html",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "italske_listy_008.md",
+            "xhtml": "italske_listy_008.html",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "italske_listy_009.md",
+            "xhtml": "italske_listy_009.html",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "italske_listy_010.md",
+            "xhtml": "italske_listy_010.html",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "italske_listy_011.md",
+            "xhtml": "italske_listy_011.html",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "italske_listy_012.md",
+            "xhtml": "italske_listy_012.html",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "italske_listy_013.md",
+            "xhtml": "italske_listy_013.html",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "italske_listy_014.md",
+            "xhtml": "italske_listy_014.html",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "italske_listy_015.md",
+            "xhtml": "italske_listy_015.html",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "italske_listy_016.md",
+            "xhtml": "italske_listy_016.html",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "italske_listy_017.md",
+            "xhtml": "italske_listy_017.html",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "italske_listy_018.md",
+            "xhtml": "italske_listy_018.html",
+            "id": 17,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "italske_listy_019.md",
+            "xhtml": "italske_listy_019.html",
+            "id": 18,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "italske_listy_020.md",
+            "xhtml": "italske_listy_020.html",
+            "id": 19,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "italske_listy_021.md",
+            "xhtml": "italske_listy_021.html",
+            "id": 20,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "italske_listy_022.md",
+            "xhtml": "italske_listy_022.html",
+            "id": 21,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "italske_listy_023.md",
+            "xhtml": "italske_listy_023.html",
+            "id": 22,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "italske_listy_024.md",
+            "xhtml": "italske_listy_024.html",
+            "id": 23,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "italske_listy_025.md",
+            "xhtml": "italske_listy_025.html",
+            "id": 24,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "italske_listy_026.md",
+            "xhtml": "italske_listy_026.html",
+            "id": 25,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "italske_listy_027.md",
+            "xhtml": "italske_listy_027.html",
+            "id": 26,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "italske_listy_028.md",
+            "xhtml": "italske_listy_028.html",
+            "id": 27,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "italske_listy_029.md",
+            "xhtml": "italske_listy_029.html",
+            "id": 28,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "italske_listy_030.md",
+            "xhtml": "italske_listy_030.html",
+            "id": 29,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "italske_listy_031.md",
+            "xhtml": "italske_listy_031.html",
+            "id": 30,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "italske_listy_032.md",
+            "xhtml": "italske_listy_032.html",
+            "id": 31,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          }
+        ]
+      }
+    ],
+    "replacements": []
+  },
+  "epub": {
+    "metadata": {
+      "title": "Italské listy",
+      "identifier": "d93d8f2b-e7ce-446b-bdb3-281192197658",
+      "author": "Karel Čapek",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2017-11-30T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "italske_listy_001.md",
+        "xhtml": "italske_listy_001.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "italske_listy_002.md",
+        "xhtml": "italske_listy_002.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "italske_listy_003.md",
+        "xhtml": "italske_listy_003.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "italske_listy_004.md",
+        "xhtml": "italske_listy_004.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "italske_listy_005.md",
+        "xhtml": "italske_listy_005.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "italske_listy_006.md",
+        "xhtml": "italske_listy_006.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "italske_listy_007.md",
+        "xhtml": "italske_listy_007.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "italske_listy_008.md",
+        "xhtml": "italske_listy_008.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "italske_listy_009.md",
+        "xhtml": "italske_listy_009.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "italske_listy_010.md",
+        "xhtml": "italske_listy_010.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "italske_listy_011.md",
+        "xhtml": "italske_listy_011.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "italske_listy_012.md",
+        "xhtml": "italske_listy_012.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "italske_listy_013.md",
+        "xhtml": "italske_listy_013.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "italske_listy_014.md",
+        "xhtml": "italske_listy_014.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "italske_listy_015.md",
+        "xhtml": "italske_listy_015.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "italske_listy_016.md",
+        "xhtml": "italske_listy_016.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "italske_listy_017.md",
+        "xhtml": "italske_listy_017.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "italske_listy_018.md",
+        "xhtml": "italske_listy_018.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "italske_listy_019.md",
+        "xhtml": "italske_listy_019.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "italske_listy_020.md",
+        "xhtml": "italske_listy_020.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "italske_listy_021.md",
+        "xhtml": "italske_listy_021.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "italske_listy_022.md",
+        "xhtml": "italske_listy_022.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "italske_listy_023.md",
+        "xhtml": "italske_listy_023.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "italske_listy_024.md",
+        "xhtml": "italske_listy_024.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "italske_listy_025.md",
+        "xhtml": "italske_listy_025.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "italske_listy_026.md",
+        "xhtml": "italske_listy_026.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "italske_listy_027.md",
+        "xhtml": "italske_listy_027.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "italske_listy_028.md",
+        "xhtml": "italske_listy_028.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "italske_listy_029.md",
+        "xhtml": "italske_listy_029.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "italske_listy_030.md",
+        "xhtml": "italske_listy_030.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "italske_listy_031.md",
+        "xhtml": "italske_listy_031.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "italske_listy_032.md",
+        "xhtml": "italske_listy_032.html"
+      }
+    ],
+    "resources": [
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image002.jpg"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image003.png"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/page_styles.css"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/stylesheet.css"
+      },
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      }
+    ],
+    "classes": [
+      "calibre11",
+      "calibre12",
+      "calibre13",
+      "calibre14",
+      "calibre17",
+      "calibre18",
+      "calibre19",
+      "calibre20",
+      "calibre22",
+      "calibre23",
+      "calibre24",
+      "calibre25",
+      "calibre3",
+      "calibre5",
+      "calibre6",
+      "calibre7",
+      "calibre8",
+      "mlpdopispodpisi",
+      "mlplicencehypertext",
+      "mlplicenceobrazek",
+      "mlplicencetext",
+      "mlpobrazky",
+      "mlptext",
+      "mlptextbez1radku",
+      "mlptextbez1radku1",
+      "mlptextbez1radku2",
+      "mlptextbez1radkub",
+      "mlptextcapekseznam",
+      "mlptextuprostredi-b",
+      "mlptirazautoranazev",
+      "mlptitulkaautor",
+      "mlptitulkanazev",
+      "mlpuroven2kapitola",
+      "mlpuroven3nadpis",
+      "mlpznakkurziva11b",
+      "mlpznaktucne11b",
+      "msofootnotereference",
+      "msofootnotetext",
+      "pcalibre",
+      "pcalibre1",
+      "wordsection",
+      "wordsection1",
+      "wordsection3",
+      "wordsection4"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "italske-listy"
+    },
+    "generatedAt": 1649871380238
+  }
+}
