@@ -1,8 +1,7 @@
 ---
+title: Toskána
 contentType: prose
 ---
-
-## Toskána
 
 Jen padej, dešti, vodo nebeská, a ovlaž mé severní srdce, svěží chlade. Neb takto jest mi dobře odpočívati.
 

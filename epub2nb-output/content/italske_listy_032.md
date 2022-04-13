@@ -1,10 +1,11 @@
 ---
+title: ''
 contentType: prose
 ---
 
-Karel Čapek
+**Karel Čapek**
 
-Italské listy
+**Italské listy**
 
 Edice Bratři Čapkové
 
@@ -12,7 +13,7 @@ Obálka Alena Kubíková
 
 Redakce Jaroslava Bednářová
 
-Vydala Městská knihovna v Praze
+Vydala **Městská knihovna v Praze**
 
 Mariánské nám. 1, 115 72 Praha 1
 

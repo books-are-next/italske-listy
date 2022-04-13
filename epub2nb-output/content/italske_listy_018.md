@@ -1,8 +1,7 @@
 ---
+title: Antika
 contentType: prose
 ---
-
-## Antika
 
 Jsou lidé, kteří mají k antice poměr (někteří dokonce mají poměr s antikou), a jiní, kteří poměr k antice teprve získávají. V tomto druhém případě je průběh asi takový: když poprvé přijdou do velkého skladiště antik, takhle do vatikánského nebo termského nebo neapolského muzea, zprvu prodlévají zbožně před každou sochou a šeptají si uchváceni nějaký klasický citát, například „Caesar pontem fieri iussit[\[13\]](./resources/undefined)“. Po první půlhodině nenápadně zrychlují krok. Po hodině putují dalšími sály řízným pochodem. A za dalších patnáct minut by už chtěli mít velociped…
 

@@ -1,8 +1,7 @@
 ---
+title: Z Říma
 contentType: prose
 ---
-
-## Z Říma
 
 Na mou čest, nevynechal jsem žádnou slavnou památku ani oblouk, neodpustil jsem si žádné muzeum, ani termy, ani mauzoleum, ale budu vám povídat o místech skromnějších; mám už takovou poutnickou mánii, a když už tedy se mi chtělo sedět a na nic se nekoukat, sedělo se mi lépe u sv. Vavřince, co je ten maličký vodotrysk, než ve stínu Kolosea, kde splašený guida[\[14\]](./resources/undefined) vykládá nepromokavým Angličankám, kudy tam tekla ta voda a kde tu pouštěli ty historické lvy.
 

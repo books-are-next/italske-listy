@@ -1,8 +1,7 @@
 ---
+title: Poznámky pod čarou
 contentType: prose
 ---
-
-## Poznámky pod čarou
 
 [\[1\]](./resources/undefined) Theodor Schütz (1878–1961), tenorista Národního divadla. _Pozn. red._
 

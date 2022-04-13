@@ -1,8 +1,9 @@
 ---
+title: |-
+  Janov
+  a Milán
 contentType: prose
 ---
-
-## Janov a Milán
 
 Podle různých zpráv je takzvaná Riviera di Levante země krásná, přímořská a přímo proslulá, jak svědčí například jména Rapallo, Sestri, Portofino, Nervi atd. Nemohu to dobře posoudit, neboť vlak probíhá touto rajskou krajinou výhradně pod zemí, v samých tunelech, až po sám Janov. V Janově jsem se konečně dostal na povrch země, a našel jsem tu kraj kupodivu kopčitý, což dává janovským ulicím průběh neobyčejně rozmarný; pustíte se dolů v naději, že tam dole musí být moře, a zatím najdete před sebou „salitu[\[16\]](./resources/undefined)“ šplhající do záhadné výše. Ostatně jsou tu samé schody, výtahy, lanové dráhy, tunely a přemostění, dále spousta paláců, jež místo dvorů a zahrad mají samé portiky a schodiště běžící nahoru nebo dolů, což tedy je janovská specialita, a konečně přístav, přístav náramný, překypující, těsný a podivuhodný, kterého se nemůžete nasytit ani zblízka, ani z přenáramné výšky Castellacia. Je to přeplněný kravín, kde železné a dřevěné krávy jedna přes druhou bučí, pouští vodu, přežvykuje uhlí a železo, tlačí se, funí, přešlapuje, cpe se a vydává; jsou tu krávy zaoceánské, černé a červené, nažrané k puknutí, a krásné veliké plachetnice, a parní ovádi kroužící kolem těch velkých hovad, a bachraté vlečné čluny podobné spícím prasnicím, a komáří kocábky, rybářské plachetky, bílé paqueboty[\[17\]](./resources/undefined) svítící mosazí, komíny, stěžně, ráhna, matoucí houští stožárů a lan, přístav hojný a primitivní, bohatý a středověký jako celá Itálie. A tak už mi odpusťte, že toho vím o Janově tak málo; zapletl jsem se do této přístavní podívané, a vím jenom ještě to, že strážníci tu mají dlouhé kaftany a místo pendreků hole, že Janov měl v dějinách tuze špatnou pověst a že místo nebes jsou tu jen šňůry se špinavým prádlem; ulice pak jsou tak úzké, že člověk s košem na hlavě musí křičet, aby ostatní lid před ním vyklidil cestu. A ty mramorové paláce, ať se jmenují Doria, Balbi či Cambiaso, jsou dnes vesměs obsazeny bankami; ani nebudu vykládat, co si o tom myslím, ale tohle jsem našel všude. Ten osud čeká jistě i kostely; za postranními oltáři budou sedět pokladníci až po prokuristy, za hlavním oltářem pak sám pan náměstek ředitele; vrchní ředitel bude ovšem rezidovat ještě výš, na pravici Boha Otce Všemohoucího.
 

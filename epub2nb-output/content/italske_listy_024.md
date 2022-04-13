@@ -1,8 +1,7 @@
 ---
+title: Verona
 contentType: prose
 ---
-
-## Verona
 
 Dovolte, abych nyní řekl všechno špatné o zemi vlašské: že je tu příliš horko a příliš draho, mnoho taškářů a blech, strašný rámus, samý barok, banditští drožkáři, malárie, zemětřesení a ještě hroznější zla; a to vše prozrazuji ze msty. Bídná Mantovo, rodiště Vergiliovo a Mantegnův hrobe!, mizerné hnízdo, kam jsem vážil cestu, abych se podíval na fresky velikého, přísného miláčka Mantegny! Což je lidské a křesťanské odepříti mi přístup do vytoužené Camera degli Sposi jen proto, že je jakýsi (nevím skutečně jaký) národní a vlastenecký svátek? Tvrdý kustode, který jsi odolal svůdnému šustění mých bankovek! Bezcitný direttore, jenž jsi krčil rameny s výrazem nekonečného politování a neuhnul ani mým hrozbám! Nudná maloměstská Mantovo, kde se tři kluci proháněli s praporem, oživujíce nejprotivnější ulice tohoto světa! A ty, země italská, jež jsi mne na mé krátké pouti podělila nejméně šesti národními svátky, aby mne vyhnaly od bran památek ravennských a ode dveří umbrijské školy v Perugii a ode všech pozemských krás v Neapoli, – pravím, všeho mnoho škodí; a Mantova vyčerpala už mou trpělivost. Nechť nikdy cizincova noha nestane v Mantově! A abyste věděli, jsou tam ke všemu špatné postele, nijaké jídlo a lid nepříjemný.
 

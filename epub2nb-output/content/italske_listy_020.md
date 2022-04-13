@@ -1,8 +1,9 @@
 ---
+title: |-
+  Sladká
+  Umbrie
 contentType: prose
 ---
-
-## Sladká Umbrie
 
 Nejel jsem za sv. Františkem, nýbrž za sv. Giottem; ale nakonec mne objala země ze všech nejsličnější, s městečky ze všech nejčistšími a nejpěknějšími. Aj, Betléme, tvé jméno jest Spello či Trevi – či Spoleto nebo Narni? Pravím, požehnané kopečky, že na každém z vás bylo by i Bohu milo se zrodit: a to jsem ještě neřekl jména všech, a neznám ani, jak se jmenují vsi a samoty a hrádky na temenech oblých hor. Umbrijský Bůh stvořil rovinu, aby na ní rostly vinice a topoly, pahrbky, aby na nich rostly kadeřavé háje, cypřiše a samoty, a hory, aby na nich vyrostla města s etruskými hradbami, gotickými domečky a náramným římskorománským kastelem. Umbrijský Bůh pak měl překrásnou modrou barvu pro oblohu a ještě pěknější barvu, jíž natřel dálky a hory. Proto je Umbrie tak zázračně modrá, nejmodřejší ze všech zemí.
 

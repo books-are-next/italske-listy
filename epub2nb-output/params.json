@@ -1,16 +1,20 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
       "title": "Italské listy",
       "identifier": "d93d8f2b-e7ce-446b-bdb3-281192197658",
       "author": "Karel Čapek",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2017-11-30T00:00:00.000Z"
+      "modified": "2017-11-30T00:00:00.000Z",
+      "edition": "beletrie",
+      "publisherShort": "mkp"
     },
     "elements": {
-      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola",
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nmlpuroven2kapitola",
       "subtitle": "",
-      "h2": "MLP-uroven3-nadpis",
+      "h2": "MLP-uroven3-nadpis\nmlpuroven3nadpis",
       "h3": "",
       "h4": "",
       "hr": "",
@@ -21,8 +25,8 @@
       "brAfter": "",
       "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
       "figure": "MLP_obrazky\nMLP-obrazky",
-      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b",
-      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nmlpdopispodpisi\nmlpznakkurziva11b",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf\nmlptextbez1radkub\nmlptextuprostredi-b\nmlptirazautoranazev\nmlpznaktucne11b",
       "remove": "",
       "ignore": ""
     },
@@ -30,6 +34,7 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "italske_listy_001.md",
@@ -40,7 +45,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "italske_listy_002.md",
@@ -51,7 +57,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "italske_listy_003.md",
@@ -62,7 +69,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "italske_listy_004.md",
@@ -73,7 +81,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "italske_listy_005.md",
@@ -84,7 +93,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "italske_listy_006.md",
@@ -95,7 +105,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "italske_listy_007.md",
@@ -106,7 +117,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "italske_listy_008.md",
@@ -117,7 +129,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "italske_listy_009.md",
@@ -128,7 +141,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "italske_listy_010.md",
@@ -139,7 +153,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "italske_listy_011.md",
@@ -150,7 +165,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "italske_listy_012.md",
@@ -161,7 +177,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "italske_listy_013.md",
@@ -172,7 +189,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "italske_listy_014.md",
@@ -183,7 +201,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "italske_listy_015.md",
@@ -194,7 +213,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "italske_listy_016.md",
@@ -205,7 +225,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "italske_listy_017.md",
@@ -216,7 +237,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "italske_listy_018.md",
@@ -227,7 +249,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "italske_listy_019.md",
@@ -238,7 +261,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "italske_listy_020.md",
@@ -249,7 +273,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "italske_listy_021.md",
@@ -260,7 +285,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "italske_listy_022.md",
@@ -271,7 +297,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "italske_listy_023.md",
@@ -282,7 +309,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "italske_listy_024.md",
@@ -293,7 +321,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "italske_listy_025.md",
@@ -304,7 +333,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "italske_listy_026.md",
@@ -315,7 +345,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "italske_listy_027.md",
@@ -326,7 +357,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "italske_listy_028.md",
@@ -337,7 +369,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "italske_listy_029.md",
@@ -348,7 +381,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "italske_listy_030.md",
@@ -359,7 +393,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "italske_listy_031.md",
@@ -370,7 +405,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "italske_listy_032.md",
@@ -381,7 +417,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -421,163 +458,163 @@
         "xhtml": "italske_listy_004.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Předmluva",
         "subtitleSuggest": "",
         "filename": "italske_listy_005.md",
         "xhtml": "italske_listy_005.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Úvodem",
         "subtitleSuggest": "",
         "filename": "italske_listy_006.md",
         "xhtml": "italske_listy_006.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Benátky",
         "subtitleSuggest": "",
         "filename": "italske_listy_007.md",
         "xhtml": "italske_listy_007.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Padova,\nFerrara",
         "subtitleSuggest": "",
         "filename": "italske_listy_008.md",
         "xhtml": "italske_listy_008.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ravenna,\nSan Marino",
         "subtitleSuggest": "",
         "filename": "italske_listy_009.md",
         "xhtml": "italske_listy_009.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Florencie",
         "subtitleSuggest": "",
         "filename": "italske_listy_010.md",
         "xhtml": "italske_listy_010.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Siena,\nOrvieto",
         "subtitleSuggest": "",
         "filename": "italske_listy_011.md",
         "xhtml": "italske_listy_011.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Řím",
         "subtitleSuggest": "",
         "filename": "italske_listy_012.md",
         "xhtml": "italske_listy_012.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Lid\nneapolský",
         "subtitleSuggest": "",
         "filename": "italske_listy_013.md",
         "xhtml": "italske_listy_013.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Palermo",
         "subtitleSuggest": "",
         "filename": "italske_listy_014.md",
         "xhtml": "italske_listy_014.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Od\nPalerma po Taorminu",
         "subtitleSuggest": "",
         "filename": "italske_listy_015.md",
         "xhtml": "italske_listy_015.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "V Boží dlani",
         "subtitleSuggest": "",
         "filename": "italske_listy_016.md",
         "xhtml": "italske_listy_016.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Podzemní\nměsta",
         "subtitleSuggest": "",
         "filename": "italske_listy_017.md",
         "xhtml": "italske_listy_017.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Antika",
         "subtitleSuggest": "",
         "filename": "italske_listy_018.md",
         "xhtml": "italske_listy_018.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Z Říma",
         "subtitleSuggest": "",
         "filename": "italske_listy_019.md",
         "xhtml": "italske_listy_019.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Sladká\nUmbrie",
         "subtitleSuggest": "",
         "filename": "italske_listy_020.md",
         "xhtml": "italske_listy_020.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Toskána",
         "subtitleSuggest": "",
         "filename": "italske_listy_021.md",
         "xhtml": "italske_listy_021.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Janov\na Milán",
         "subtitleSuggest": "",
         "filename": "italske_listy_022.md",
         "xhtml": "italske_listy_022.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Moře",
         "subtitleSuggest": "",
         "filename": "italske_listy_023.md",
         "xhtml": "italske_listy_023.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Verona",
         "subtitleSuggest": "",
         "filename": "italske_listy_024.md",
         "xhtml": "italske_listy_024.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kostely",
         "subtitleSuggest": "",
         "filename": "italske_listy_025.md",
         "xhtml": "italske_listy_025.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Bolzano",
         "subtitleSuggest": "",
         "filename": "italske_listy_026.md",
         "xhtml": "italske_listy_026.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Paralipomena[24]",
         "subtitleSuggest": "",
         "filename": "italske_listy_027.md",
         "xhtml": "italske_listy_027.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ediční poznámka",
         "subtitleSuggest": "",
         "filename": "italske_listy_028.md",
         "xhtml": "italske_listy_028.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Život\na doba spisovatele\nKarla Čapka v datech",
         "subtitleSuggest": "",
         "filename": "italske_listy_029.md",
         "xhtml": "italske_listy_029.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "První vydání knih Karla Čapka",
         "subtitleSuggest": "",
         "filename": "italske_listy_030.md",
         "xhtml": "italske_listy_030.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Poznámky pod čarou",
         "subtitleSuggest": "",
         "filename": "italske_listy_031.md",
         "xhtml": "italske_listy_031.html"
@@ -673,6 +710,6 @@
       "user": "books-are-next",
       "repo": "italske-listy"
     },
-    "generatedAt": 1649871380238
+    "generatedAt": 1649871703787
   }
 }

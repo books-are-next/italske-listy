@@ -1,8 +1,9 @@
 ---
+title: |-
+  Od
+  Palerma po Taorminu
 contentType: prose
 ---
-
-## Od Palerma po Taorminu
 
 Zaplaťte mi těžkým zlatem tyto řádky, ne pro jejich zvláštní krásu, nýbrž proto, že sám za ně musím tolik platit. Ale počítám-li za každou hvězdičku deset centimů a centim za každé hluboké zašumění moře, deset lir za rudý ohýnek na špičce Etny a za balzamický vzduch půl liry za hodinu – jak vidíte, nepočítám ani odrazy na moři, ani palmy, ani starý hrad, ba ani řecké divadlo, jež teď v noci nemá, čím by poutalo –, nuže, pak to stojí za to, budiž Bůh pochválen, že mne poslal v tyto končiny.
 

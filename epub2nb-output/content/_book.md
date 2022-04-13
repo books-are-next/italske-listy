@@ -2,13 +2,17 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
+  contentType: prose
   title: Italské listy
   identifier: d93d8f2b-e7ce-446b-bdb3-281192197658
   author: Karel Čapek
   publisher: Městská knihovna v Praze
   modified: '2017-11-30T00:00:00.000Z'
+  edition: beletrie
+  publisherShort: mkp
 readingOrder:
   - italske_listy_001.html
   - italske_listy_002.html
@@ -46,6 +50,7 @@ tocBase:
   - id: section-1
     children: []
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

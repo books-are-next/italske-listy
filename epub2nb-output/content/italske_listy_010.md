@@ -1,8 +1,7 @@
 ---
+title: Florencie
 contentType: prose
 ---
-
-## Florencie
 
 Naposledy jsem vám psal v dešti a mracích v jediném, a tudíž také nejlepším hotelu republiky San Marino. A hle, ráno se nebi zalíbilo, mraky stouply o jedno patro výš, i bylo viděti krajinu náramnou: moře asi třicet kilometrů odtud, hory, skály, nesmírnou spoustu hor a skal, a za nimi celou Aemilii[\[4\]](./resources/undefined), a na každé hoře nějaký hrad nebo hlásku nebo lidské hnízdo stěsnané zrovna na dlani, a pod nohama tedy propast, z níž kolmo stoupá skála sanmarinská. Zdola je to divoký, zubatý hřeben, a ještě za Faenzou jsem se po něm ohlížel, a pak tedy jsem už byl v Bologni.
 
