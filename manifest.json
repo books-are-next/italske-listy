@@ -1,22 +1,54 @@
 {
-  "author": "Karel Čapek",
-  "contenttype": "prose",
-  "edition": "beletrie",
-  "identifier": "capek-italske-listy-0afcb8e",
-  "languagecode": "cs",
-  "modified": "2017-11-30T00:00:00.000Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Italské listy",
-  "revision": "0afcb8e",
+  "author": "Karel Čapek",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "capek-italske-listy-20f790a",
+  "revision": "20f790a",
+  "readingOrder": [
+    "promo.html",
+    "italske_listy_005.html",
+    "italske_listy_006.html",
+    "italske_listy_007.html",
+    "italske_listy_008.html",
+    "italske_listy_009.html",
+    "italske_listy_010.html",
+    "italske_listy_011.html",
+    "italske_listy_012.html",
+    "italske_listy_013.html",
+    "italske_listy_014.html",
+    "italske_listy_015.html",
+    "italske_listy_016.html",
+    "italske_listy_017.html",
+    "italske_listy_018.html",
+    "italske_listy_019.html",
+    "italske_listy_020.html",
+    "italske_listy_021.html",
+    "italske_listy_022.html",
+    "italske_listy_023.html",
+    "italske_listy_024.html",
+    "italske_listy_025.html",
+    "italske_listy_026.html",
+    "italske_listy_027.html",
+    "italske_listy_028.html",
+    "italske_listy_029.html",
+    "italske_listy_030.html",
+    "italske_listy_031.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Wed Apr 13 2022 17:51:45 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1649872305362
+    "date": "Thu May 12 2022 10:43:04 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352184880
   },
   "documents": [
     {
-      "title": "Italské listy",
-      "file": "italske_listy_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -24,25 +56,17 @@
       "order": 0,
       "prev": null,
       "next": "italske_listy_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "Předmluva • Italské listy",
+      "title": "Předmluva",
       "file": "italske_listy_005.html",
       "words": 141,
       "chars": 931,
       "ideas": 6,
       "role": "chapter",
       "order": 1,
-      "prev": "italske_listy_002.html",
+      "prev": "promo.html",
       "next": "italske_listy_006.html",
       "toc": [
         {
@@ -55,7 +79,7 @@
       ]
     },
     {
-      "title": "Úvodem • Italské listy",
+      "title": "Úvodem",
       "file": "italske_listy_006.html",
       "words": 452,
       "chars": 2691,
@@ -75,7 +99,7 @@
       ]
     },
     {
-      "title": "Benátky • Italské listy",
+      "title": "Benátky",
       "file": "italske_listy_007.html",
       "words": 1159,
       "chars": 7074,
@@ -110,11 +134,11 @@
       ]
     },
     {
-      "title": "Padova,\nFerrara • Italské listy",
+      "title": "Padova, Ferrara",
       "file": "italske_listy_008.html",
       "words": 608,
-      "chars": 3856,
-      "ideas": 7,
+      "chars": 3857,
+      "ideas": 6,
       "role": "chapter",
       "order": 4,
       "prev": "italske_listy_007.html",
@@ -123,18 +147,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Padova,\nFerrara",
+          "name": "Padova, Ferrara",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ravenna,\nSan Marino • Italské listy",
+      "title": "Ravenna, San Marino",
       "file": "italske_listy_009.html",
       "words": 625,
-      "chars": 3888,
-      "ideas": 8,
+      "chars": 3889,
+      "ideas": 7,
       "role": "chapter",
       "order": 5,
       "prev": "italske_listy_008.html",
@@ -143,14 +167,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Ravenna,\nSan Marino",
+          "name": "Ravenna, San Marino",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Florencie • Italské listy",
+      "title": "Florencie",
       "file": "italske_listy_010.html",
       "words": 705,
       "chars": 4075,
@@ -170,11 +194,11 @@
       ]
     },
     {
-      "title": "Siena,\nOrvieto • Italské listy",
+      "title": "Siena, Orvieto",
       "file": "italske_listy_011.html",
       "words": 641,
-      "chars": 3992,
-      "ideas": 5,
+      "chars": 3993,
+      "ideas": 4,
       "role": "chapter",
       "order": 7,
       "prev": "italske_listy_010.html",
@@ -183,14 +207,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Siena,\nOrvieto",
+          "name": "Siena, Orvieto",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Řím • Italské listy",
+      "title": "Řím",
       "file": "italske_listy_012.html",
       "words": 598,
       "chars": 3715,
@@ -210,11 +234,11 @@
       ]
     },
     {
-      "title": "Lid\nneapolský • Italské listy",
+      "title": "Lid neapolský",
       "file": "italske_listy_013.html",
       "words": 1227,
-      "chars": 7258,
-      "ideas": 12,
+      "chars": 7259,
+      "ideas": 11,
       "role": "chapter",
       "order": 9,
       "prev": "italske_listy_012.html",
@@ -223,7 +247,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Lid\nneapolský",
+          "name": "Lid neapolský",
           "id": null,
           "children": [
             {
@@ -245,7 +269,7 @@
       ]
     },
     {
-      "title": "Palermo • Italské listy",
+      "title": "Palermo",
       "file": "italske_listy_014.html",
       "words": 658,
       "chars": 4186,
@@ -265,11 +289,11 @@
       ]
     },
     {
-      "title": "Od\nPalerma po Taorminu • Italské listy",
+      "title": "Od Palerma po Taorminu",
       "file": "italske_listy_015.html",
       "words": 599,
-      "chars": 3672,
-      "ideas": 8,
+      "chars": 3673,
+      "ideas": 7,
       "role": "chapter",
       "order": 11,
       "prev": "italske_listy_014.html",
@@ -278,14 +302,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Od\nPalerma po Taorminu",
+          "name": "Od Palerma po Taorminu",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "V Boží dlani • Italské listy",
+      "title": "V Boží dlani",
       "file": "italske_listy_016.html",
       "words": 661,
       "chars": 3789,
@@ -305,11 +329,11 @@
       ]
     },
     {
-      "title": "Podzemní\nměsta • Italské listy",
+      "title": "Podzemní města",
       "file": "italske_listy_017.html",
       "words": 745,
-      "chars": 5020,
-      "ideas": 5,
+      "chars": 5021,
+      "ideas": 4,
       "role": "chapter",
       "order": 13,
       "prev": "italske_listy_016.html",
@@ -318,14 +342,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Podzemní\nměsta",
+          "name": "Podzemní města",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Antika • Italské listy",
+      "title": "Antika",
       "file": "italske_listy_018.html",
       "words": 697,
       "chars": 4452,
@@ -345,7 +369,7 @@
       ]
     },
     {
-      "title": "Z Říma • Italské listy",
+      "title": "Z Říma",
       "file": "italske_listy_019.html",
       "words": 572,
       "chars": 3455,
@@ -365,11 +389,11 @@
       ]
     },
     {
-      "title": "Sladká\nUmbrie • Italské listy",
+      "title": "Sladká Umbrie",
       "file": "italske_listy_020.html",
       "words": 603,
-      "chars": 3756,
-      "ideas": 7,
+      "chars": 3757,
+      "ideas": 6,
       "role": "chapter",
       "order": 16,
       "prev": "italske_listy_019.html",
@@ -378,14 +402,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Sladká\nUmbrie",
+          "name": "Sladká Umbrie",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Toskána • Italské listy",
+      "title": "Toskána",
       "file": "italske_listy_021.html",
       "words": 602,
       "chars": 3687,
@@ -405,11 +429,11 @@
       ]
     },
     {
-      "title": "Janov\na Milán • Italské listy",
+      "title": "Janov a Milán",
       "file": "italske_listy_022.html",
       "words": 648,
-      "chars": 4037,
-      "ideas": 5,
+      "chars": 4038,
+      "ideas": 4,
       "role": "chapter",
       "order": 18,
       "prev": "italske_listy_021.html",
@@ -418,14 +442,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Janov\na Milán",
+          "name": "Janov a Milán",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Moře • Italské listy",
+      "title": "Moře",
       "file": "italske_listy_023.html",
       "words": 428,
       "chars": 2502,
@@ -445,7 +469,7 @@
       ]
     },
     {
-      "title": "Verona • Italské listy",
+      "title": "Verona",
       "file": "italske_listy_024.html",
       "words": 590,
       "chars": 3686,
@@ -465,7 +489,7 @@
       ]
     },
     {
-      "title": "Kostely • Italské listy",
+      "title": "Kostely",
       "file": "italske_listy_025.html",
       "words": 640,
       "chars": 3856,
@@ -485,7 +509,7 @@
       ]
     },
     {
-      "title": "Bolzano • Italské listy",
+      "title": "Bolzano",
       "file": "italske_listy_026.html",
       "words": 578,
       "chars": 3445,
@@ -505,7 +529,7 @@
       ]
     },
     {
-      "title": "Paralipomena[24] • Italské listy",
+      "title": "Paralipomena[24]",
       "file": "italske_listy_027.html",
       "words": 813,
       "chars": 4967,
@@ -525,7 +549,7 @@
       ]
     },
     {
-      "title": "Ediční poznámka • Italské listy",
+      "title": "Ediční poznámka",
       "file": "italske_listy_028.html",
       "words": 77,
       "chars": 606,
@@ -545,11 +569,11 @@
       ]
     },
     {
-      "title": "Život\na doba spisovatele\nKarla Čapka v datech • Italské listy",
+      "title": "Život a doba spisovatele Karla Čapka v datech",
       "file": "italske_listy_029.html",
       "words": 293,
-      "chars": 2024,
-      "ideas": 33,
+      "chars": 2026,
+      "ideas": 31,
       "role": "chapter",
       "order": 25,
       "prev": "italske_listy_028.html",
@@ -558,14 +582,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Život\na doba spisovatele\nKarla Čapka v datech",
+          "name": "Život a doba spisovatele Karla Čapka v datech",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "První vydání knih Karla Čapka • Italské listy",
+      "title": "První vydání knih Karla Čapka",
       "file": "italske_listy_030.html",
       "words": 233,
       "chars": 1155,
@@ -585,7 +609,7 @@
       ]
     },
     {
-      "title": "Poznámky pod čarou • Italské listy",
+      "title": "Poznámky pod čarou",
       "file": "italske_listy_031.html",
       "words": 281,
       "chars": 1769,
@@ -605,11 +629,11 @@
       ]
     },
     {
-      "title": "Tiráž • Italské listy",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 134,
-      "chars": 892,
-      "ideas": 23,
+      "words": 105,
+      "chars": 704,
+      "ideas": 14,
       "role": "colophon",
       "order": null,
       "prev": "italske_listy_031.html",
@@ -627,14 +651,14 @@
   ],
   "totals": {
     "all": {
-      "words": 16014,
-      "chars": 98471,
-      "ideas": 304
+      "words": 15985,
+      "chars": 98293,
+      "ideas": 285
     },
     "chapters": {
       "words": 15874,
-      "chars": 97544,
-      "ideas": 277
+      "chars": 97554,
+      "ideas": 267
     }
   }
 }

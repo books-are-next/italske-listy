@@ -1,7 +1,5 @@
 ---
-title: |-
-  Od
-  Palerma po Taorminu
+title: Od Palerma po Taorminu
 contentType: prose
 ---
 

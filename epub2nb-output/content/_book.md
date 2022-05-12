@@ -14,7 +14,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
 readingOrder:
-  - italske_listy_002.html
+  - promo.html
   - italske_listy_005.html
   - italske_listy_006.html
   - italske_listy_007.html

@@ -1,7 +1,5 @@
 ---
-title: |-
-  Siena,
-  Orvieto
+title: Siena, Orvieto
 contentType: prose
 ---
 

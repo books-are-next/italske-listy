@@ -1,7 +1,5 @@
 ---
-title: |-
-  Padova,
-  Ferrara
+title: Padova, Ferrara
 contentType: prose
 ---
 

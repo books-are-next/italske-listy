@@ -1,7 +1,5 @@
 ---
-title: |-
-  Lid
-  neapolský
+title: Lid neapolský
 contentType: prose
 ---
 

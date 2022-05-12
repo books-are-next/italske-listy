@@ -52,7 +52,7 @@
             "filename": "italske_listy_002.md",
             "xhtml": "italske_listy_002.html",
             "id": 1,
-            "role": "break",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -503,13 +503,13 @@
         "xhtml": "italske_listy_007.html"
       },
       {
-        "titleSuggest": "Padova,\nFerrara",
+        "titleSuggest": "Padova, Ferrara",
         "subtitleSuggest": "",
         "filename": "italske_listy_008.md",
         "xhtml": "italske_listy_008.html"
       },
       {
-        "titleSuggest": "Ravenna,\nSan Marino",
+        "titleSuggest": "Ravenna, San Marino",
         "subtitleSuggest": "",
         "filename": "italske_listy_009.md",
         "xhtml": "italske_listy_009.html"
@@ -521,7 +521,7 @@
         "xhtml": "italske_listy_010.html"
       },
       {
-        "titleSuggest": "Siena,\nOrvieto",
+        "titleSuggest": "Siena, Orvieto",
         "subtitleSuggest": "",
         "filename": "italske_listy_011.md",
         "xhtml": "italske_listy_011.html"
@@ -533,7 +533,7 @@
         "xhtml": "italske_listy_012.html"
       },
       {
-        "titleSuggest": "Lid\nneapolský",
+        "titleSuggest": "Lid neapolský",
         "subtitleSuggest": "",
         "filename": "italske_listy_013.md",
         "xhtml": "italske_listy_013.html"
@@ -545,7 +545,7 @@
         "xhtml": "italske_listy_014.html"
       },
       {
-        "titleSuggest": "Od\nPalerma po Taorminu",
+        "titleSuggest": "Od Palerma po Taorminu",
         "subtitleSuggest": "",
         "filename": "italske_listy_015.md",
         "xhtml": "italske_listy_015.html"
@@ -557,7 +557,7 @@
         "xhtml": "italske_listy_016.html"
       },
       {
-        "titleSuggest": "Podzemní\nměsta",
+        "titleSuggest": "Podzemní města",
         "subtitleSuggest": "",
         "filename": "italske_listy_017.md",
         "xhtml": "italske_listy_017.html"
@@ -575,7 +575,7 @@
         "xhtml": "italske_listy_019.html"
       },
       {
-        "titleSuggest": "Sladká\nUmbrie",
+        "titleSuggest": "Sladká Umbrie",
         "subtitleSuggest": "",
         "filename": "italske_listy_020.md",
         "xhtml": "italske_listy_020.html"
@@ -587,7 +587,7 @@
         "xhtml": "italske_listy_021.html"
       },
       {
-        "titleSuggest": "Janov\na Milán",
+        "titleSuggest": "Janov a Milán",
         "subtitleSuggest": "",
         "filename": "italske_listy_022.md",
         "xhtml": "italske_listy_022.html"
@@ -629,7 +629,7 @@
         "xhtml": "italske_listy_028.html"
       },
       {
-        "titleSuggest": "Život\na doba spisovatele\nKarla Čapka v datech",
+        "titleSuggest": "Život a doba spisovatele Karla Čapka v datech",
         "subtitleSuggest": "",
         "filename": "italske_listy_029.md",
         "xhtml": "italske_listy_029.html"
@@ -737,6 +737,6 @@
       "user": "books-are-next",
       "repo": "italske-listy"
     },
-    "generatedAt": 1649872252190
+    "generatedAt": 1652351644896
   }
 }
