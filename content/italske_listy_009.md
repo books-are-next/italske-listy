@@ -1,7 +1,5 @@
 ---
-title: |-
-  Ravenna,
-  San Marino
+title: Ravenna, San Marino
 contentType: prose
 ---
 

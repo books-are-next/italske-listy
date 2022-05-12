@@ -1,7 +1,5 @@
 ---
-title: |-
-  Sladká
-  Umbrie
+title: Sladká Umbrie
 contentType: prose
 ---
 

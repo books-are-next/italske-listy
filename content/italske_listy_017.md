@@ -1,7 +1,5 @@
 ---
-title: |-
-  Podzemní
-  města
+title: Podzemní města
 contentType: prose
 ---
 

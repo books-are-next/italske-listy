@@ -1,7 +1,5 @@
 ---
-title: |-
-  Janov
-  a Milán
+title: Janov a Milán
 contentType: prose
 ---
 
