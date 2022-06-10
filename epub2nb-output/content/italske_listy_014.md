@@ -3,6 +3,8 @@ title: Palermo
 contentType: prose
 ---
 
+<section>
+
 Raději bych toto ani nepsal, neboť stydím se, že nedovedu přesně říci, je-li nejkrásnější věcí na světě plavba po moři nebo Monreale nebo zahrádka v San Giovanni degli Eremiti. Co se Palerma týče, byl bych vám ještě včera napsal, že to je nejčistší město z celé Itálie; dnes, kdy jsem se potloukal kolem přístavu Cala, myslím, že je nejšpinavější, počítaje v to i Neapol i Rocca di Papa. Zato nesporná přednost Siciliánů je, že skoro vůbec nežebrají; zdají se vůbec přísnější a důstojnější než ti kudrnatí Neapolitáni tam nahoře, snad vlivem španělské kultury. Španělský vliv je poslední; první je řecký, druhý a třetí je saracénský a normanský; renesance sem zasáhla jen tak šejdrem. Ty různé kulturní složky zalijte oslňujícím sluncem, africkou půdou, spoustou prachu a překrásnou vegetací, a máte Sicílii.
 
 Ba ne, ještě je tu kultura domácí, a tu je vidět na kárách všech sedláků z celé Zlaté Mušle. Ty káry jsou totiž velkolepě pomalovány; samé legendy, rytířské souboje, historické scény, války, dramatické obrazy ze soudobého života, vše to malováno s gotickou primitivností nebo trochu na způsob starých karet. Zrovna tak je pomalován strop v Tribunálech, tuším z 15. století. První káru jsem si chtěl okamžitě koupit; připadala mně jako muzejní kus. Za dva dny jsem jich viděl několik tisíc, a mezi nimi hotové polychromatické divy. Žije-li kde lidové umění plným životem, je to zde.
@@ -14,3 +16,5 @@ A opět něco zcela jiného: zahrádka v staré, polozřícené křížové chod
 V Monreale jsou překrásné mozaiky o stvoření; ani Michelangelo v Sixtinské kapli nepojal hlouběji stvoření světla a vod a souše a těles nebeských, a zejména zapomněl nebo neuměl udělat, jak Bůh dne sedmého „viděl, že dobré jest“, a odpočinul si. Bůh v Monreale odpočívá, sní jako hospodář po práci, ruce v klíně. – Nuže, i Bůh stvořitel na něco zapomněl; uložil sice Adamovi, aby nazval jménem veškerá hovada i havěť vodní, ale neuložil mu, aby nazval jménem také veškeré druhy zápachů. A proto lidský jazyk není schopen vyjádřit vůně a smrady. Smíchejte jasmín, shnilou rybu, kozí sýr, žluklý olej, lidský výpar, dech moře, oranžovou silici a kocouří zápach, a máte desetkrát zředěnou představu toho, co se dýchá v takové přístavní ulici. A nezapomeňte na dětské plínky, hnijící zeleninu, kozí bobky, tabák, prach, dřevěné uhlí a pomádu. Přidejte ještě trouchnivinu, splašky, mokré prádlo a přiškvařený olej. A ani to nestačí. Je to nevyjádřitelné.
 
 Nevyjádřitelné jsou krásy a podivnosti světa.
+
+</section>

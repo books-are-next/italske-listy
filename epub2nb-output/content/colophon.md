@@ -2,6 +2,7 @@
 title: Tiráž
 ---
 
+<section>  
 **Karel Čapek**  
 **Italské listy**  
 Edice Bratři Čapkové  
@@ -9,11 +10,8 @@ Obálka Alena Kubíková
 Redakce Jaroslava Bednářová  
 Vydala **Městská knihovna v Praze**  
 Mariánské nám. 1, 115 72 Praha 1  
+</section>  
 1. vydání z 10. 6. 2022.
-
-***
-
-Znění tohoto textu vychází z díla [Italské listy](https://search.mlp.cz/cz/titul/cestopisy/159909/) tak, jak bylo vydáno v Praze nakladatelstvím Československý spisovatel v roce 1980. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 ***
 

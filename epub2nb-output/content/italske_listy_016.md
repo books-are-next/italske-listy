@@ -3,6 +3,8 @@ title: V Boží dlani
 contentType: prose
 ---
 
+<section>
+
 Vždycky se říká: Když někam jedete, naučte se tamnímu jazyku, abyste líp pronikli duši lidu, a kdesi cosi. Nuže, v takovém případě proniknete duši lidu asi tak, jako kdybyste jeli do Nového Bydžova; rozumíte všem hloupostem, které si lidé říkají, a kladete jim zbytečné otázky, jako například, jak se jmenuje tamhleta hora nebo kolik minut má tenhle vlak zpoždění.
 
 Putuji po italské zemi nezatížen takovými zájmy; mé schopnosti i můj čas stačily jen na to, abych se italsky naučil číslovkám (dokonce jenom těm nižším), a i ta znalost mne chvílemi mrzí, neboť ruší mou sladkou odevzdanost do vůle Boží. Nu ovšem, v mezinárodních hotelech se domluvíte francouzsky; ale jsou místa zajímavější než všechny hotely světa, a tam už přestává kosmopolitní bábel, tady už se nemůžeš vyptávat ani se domlouvat, ani od někoho něco chtít; tady už jenom spoléháš, že tě lidé nakrmí a napojí, ustelou ti a někam tě dovezou – jak a kam, to je zajisté v jejich moci, a nikoliv v tvé, ale svěříš se jim jako tvor němý a bezmocný, neschopný sám volit, bránit se a nadávat. A hle, dají ti jíst a pít, starají se o tebe, uloží tě; ty sám pak přijímáš to vše s tisíckrát větším povděkem, než kdyby sis to vše panovačně a obšírně naporoučel.
@@ -12,3 +14,5 @@ Putuješ s prostotou sv. Františka. Protože neumíš mluvit, nemůžeš nic od
 Jsou někdy složité situace, například když se člověk v Salernu chce dovědět, jede-li dnes parník. Sklepník v kavárně si s mou otázkou nevěděl rady; i svolal na ulici lid, lid pak si sedl kolem mne, dal si přinést café nero a rokoval, co asi chci. Říkal jsem jim, že chci do Neapole; kývali hlavami a radili se, a pak mne dovedli sborem k vlaku, kde jsem jim musil na památku rozdat své vizitky. Někdy se mne ujmou jako malého chlapečka, jako ta babička v Sieně, nebo mluví se mnou dětskou řečí, v infinitivech a s horlivými posunky. Můj vztah k nim je neobyčejně dobrý; nikdy jim neodporuji, ani oni mně.
 
 Věřte mi tedy: s trochou prostoty a trpělivosti by mohl člověk projít celým světem. Vcelku – až na málo výjimek – je možno lidem důvěřovat; nic neposiluje optimismus více než tato zkušenost. Kdybych uměl italsky, byl bych přišel o rozkoš tohoto poznání; byl bych dokonce méně viděl, protože bych méně bloudil a neocitl se chvílemi v končinách, o nichž bedekr nemluví. Člověk vleze do tramvaje, která jede opačným směrem; a místo v nějakém hloupém parku s nádhernou vyhlídkou se octne v tovární čtvrti a potlouká se v nevýslovné špíně takové Arenelly, vyjeven víc, než kdyby se podivoval subtropické vegetaci palermských sadů. I bloudit, i být němý, i být bezmocný v Boží dlani je veliká rozkoš a velký prospěch.
+
+</section>

@@ -3,6 +3,8 @@ title: Lid neapolský
 contentType: prose
 ---
 
+<section>
+
 ## I.
 
 Nebudu vám psát o Vesuvu ani o Modré jeskyni. Zejména pak vám nebudu psát o moři; slušný člověk nemluví o krásách své byť jen dočasné lásky. Krom té krásné přírody je tu hlavní znamenitostí původní neapolský lid.
@@ -22,3 +24,5 @@ Budiž po pravdě řečeno: s krásou Neapole to je tak trochu švindl. Neapol n
 Ale abych se vrátil k svým mániím: Neapol je město nadobro netvořivé; vždycky se tu špatně malovalo a nijace stavělo; tady lidem stačí modré nebe a to Boží požehnání přehojné přírody. Ale v jednom kostele (teď nevím, byl-li to San Gennaro nebo Santa Chiara, ale snad ještě jiný svatý) jsem našel votivní obrázky úplně lidové; je jich tam pár set, a mezi nimi jsou rozkošné. Obyčejně je tam namalován pokoj v neobyčejně důtklivé perspektivě; na posteli řádně vyškrobené a pečlivě nastlané leží nemocný, několik žen v sukních z roku 1870 lomí rukama a tiskne k očím vyžehlené šátky, a pak je tam na stěně svatý obraz a před ním klečí muž v černých šatech ztuhle, přímo a plasticky jak dobře naplněný pytel. Patrně nebesa nemohla odolat modlitbě tak vzorné a uzdravila chorého, začež byl jim vzdán dík tímto pečlivým exvoto[\[9\]](./resources/undefined). A vidíte, jsou mezi těmi obrázky některé, jež mají vážnou prostotu celníka Rousseaua, a jiné, jež mají znepokojivost Munchovu; je to svým způsobem jedinečná galerie anonymního malířství.
 
 Vše ostatní pak v Neapoli je jenom křik, neřád a malebnost.
+
+</section>
