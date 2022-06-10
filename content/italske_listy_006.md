@@ -3,6 +3,8 @@ title: Úvodem
 contentType: prose
 ---
 
+<section>
+
 Nežli jsem vyjel, poslali mi dobří přátelé tlusté svazky o italských dějinách, o starém Římě, o umění vůbec a jiných věcech s důtklivou radou, abych si to vše přečetl. Naneštěstí jsem tak neučinil; následek této nedbalosti je tahle knížka.
 
 Člověk obyčejně dělá něco jiného, než co chce. Nechtěl jsem vůbec cestovat, a zatím jsem jezdil jako blázen, všemi myslitelnými vehikly a ponejvíce pěšky, a když už jsem stál u moře afrického, chtěl jsem jet i do Afriky; nechtěl jsem napsat nic, a zatím jsem toho napsal celou tuto knížku, a ještě k ní píšu předmluvu, do níž bych chtěl honem zaznamenat vše, nač jsem v následujícím pohříchu zapomněl, například o stavitelství florentském, o různých druzích vína, jakož i rozličných způsobech, kterak se váže réva, zvláště pak o víně orvietském, o Tintorettovi, o předměstích, která jsem ze zvláštního zájmu prometl všude, kdekoliv jsem byl, o chrámech v Paestu, jež zdálky vypadají jako sušárny, ale zblízka jsou dórské, o krásných Římankách, jež rovněž mají dříky velmi silné a mocné, o slavících ve Fara Sabině, o zvláštnostech oslího křiku, o dveřích Bonannových a Barisanových v Monrealu, o velikém množství jiných věcí a úkazů; nyní však je pozdě vzpomínat.
@@ -14,3 +16,5 @@ Na tomto světě má se však vidět všechno; vše stojí za vidění, každá 
 **VÝSTRAHU**
 
 všem, kdo budou čísti tuto knížku, aby ji nepovažovali za průvodce, ani za cestopis, aniž za cicerona, nýbrž za cokoliv jiného budou chtít; a aby až sami někam pojedou, spoléhali krom jízdního řádu jen a jen na zvláštní milost, jež doprovází pocestný lid a ukáže mu více, než vůbec je možno napsat a vypravovat.
+
+</section>

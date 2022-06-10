@@ -3,6 +3,8 @@ title: Antika
 contentType: prose
 ---
 
+<section>
+
 Jsou lidé, kteří mají k antice poměr (někteří dokonce mají poměr s antikou), a jiní, kteří poměr k antice teprve získávají. V tomto druhém případě je průběh asi takový: když poprvé přijdou do velkého skladiště antik, takhle do vatikánského nebo termského nebo neapolského muzea, zprvu prodlévají zbožně před každou sochou a šeptají si uchváceni nějaký klasický citát, například „Caesar pontem fieri iussit[\[13\]](./resources/undefined)“. Po první půlhodině nenápadně zrychlují krok. Po hodině putují dalšími sály řízným pochodem. A za dalších patnáct minut by už chtěli mít velociped…
 
 Druhé stadium se dostaví, když poutník vidí devět Sokratových hlav v řadě na šteláži jako láhve se zavařeninou, sedm Homérů, třináct Hadriánů a dvacátou Venuši praxitelovského typu; tehdy začíná chápat, že se musí rozlišovat mezi kamenictvím a sochařstvím. A když už viděl vše, dostaví se konečné poznání, že žádná antika vlastně není; že to je jenom slovo, které označuje věci tak různé, jako je dejme tomu Cimabue a Langhans. Aspoň tak velký je rozdíl mezi selinuntskými metopy v Palermu a nějakým Caracallovým portrétem.
@@ -14,3 +16,5 @@ A když tedy poutník shledá, že není žádná úhrnná antika, dostane se mu
 A tak místo antiky najde poutník všeliké národy, místo univerzální krásy živelné a nevědomé mocnosti kmenové; jářku, i toto poznání stojí za to; ba věru, neboť podává svědectví o převeliké síle etnické. Ať dělá co dělá, národ se posléze vrací bezděčně a pudově zase sám k sobě a přerozuje se v sobě samotném.
 
 Divné pak a silné jest umění vůbec.
+
+</section>

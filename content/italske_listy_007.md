@@ -3,6 +3,8 @@ title: Benátky
 contentType: prose
 ---
 
+<section>
+
 ## I.
 
 Bude-li to, co následuje, trochu zmatené a nepřehledné, nemohu za to; neboť sám nemám nijak spořádáno to, co jsem viděl. Je toho trochu mnoho; do pořádku to dám až dodatečně, a to tím, že vše zase zapomenu; ale nyní to mohu jakžtakž srovnat jen do dvou přihrádek, pod dvojí úhrnný titul: co se mi líbilo a co se mi nelíbilo.
@@ -20,3 +22,5 @@ Zato Canal Grande vás asi zklame. Někteří bájí o skvělosti jeho paláců 
 A teď už vím, proč mám tak spadeno na benátskou krásu. Benátky mají jen paláce a kostely; dům prostého člověka není prostě nic. Holý, těsný a temný, nečleněný ani římsou, ani portálkem, ani sloupkem, smrdutý jako zkažený zub, malebný jen svou králičí těsností, neukazuje ani tu nejmenší potřebu krásy; nepotěšíte se, putujíce, pěkným profilkem římsy či rámováním vchodu, jež by chtělo člověka vítat; je to chudé, ale beze vší ctnosti. Nuže, těch sto nebo dvě stě paláců, to není kultura, to je jen bohatství; to není život v kráse, to je okázalost. A neříkejte mi, že je to pro náramný nedostatek místa; je to pro nějakou náramnou netečnost. Podnes pak je benátský vzduch líný a jaksi demoralizující, neboť podněcuje snivost a lelkování.
 
 Ale ano, má to své kouzlo; potloukáte se po ulicích jako ve snu; kanály šplounají, u sv. Marka hraje kapela, dvacaterý jazyk splývá v nekonečný šum; a vám je, jako byste měli v uších vatu nebo jako by vás obestíralo obluzující neskutečno. A jednou vystoupíte na Lidu; náhle vám zařinčí do uší zvonek malé tramvaje, zacinká kolo, ozvou se cvakající kopyta, a kouzlo je zlomeno: bože, vždyť v celých Benátkách není jediný živý kůň! Skutečně, hlavní kouzlo Benátek je čichové a sluchové: těžký zápach laguny a jediný šum lidských hlasů.
+
+</section>

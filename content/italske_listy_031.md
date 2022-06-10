@@ -3,6 +3,8 @@ title: Poznámky pod čarou
 contentType: prose
 ---
 
+<section>
+
 [\[1\]](./resources/undefined) Theodor Schütz (1878–1961), tenorista Národního divadla. _Pozn. red._
 
 [\[2\]](./resources/undefined) Pozamentérie (franc.) – zdobení oděvu prýmky. _Pozn. red._
@@ -54,3 +56,5 @@ contentType: prose
 [\[25\]](./resources/undefined) Milánská knihovna pojmenovaná podle patrona města sv. Ambrože. _Pozn. red._
 
 [\[26\]](./resources/undefined) Farnesina a Stanze – známá římská vila a vatikánské síně – obě díla zdobil Raffael. _Pozn. red._
+
+</section>
