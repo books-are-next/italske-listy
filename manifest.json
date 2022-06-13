@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-italske-listy-ffc3b95",
-  "revision": "ffc3b95",
+  "identifier": "capek-italske-listy-58d75a4",
+  "revision": "58d75a4",
   "readingOrder": [
     "promo.html",
     "italske_listy_005.html",
@@ -42,8 +42,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Sat Jun 11 2022 12:02:42 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654948962195
+    "date": "Mon Jun 13 2022 21:55:33 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655157333486
   },
   "documents": [
     {
@@ -631,9 +631,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 44,
-      "chars": 324,
-      "ideas": 5,
+      "words": 105,
+      "chars": 704,
+      "ideas": 14,
       "role": "colophon",
       "order": null,
       "prev": "italske_listy_031.html",
@@ -651,9 +651,9 @@
   ],
   "totals": {
     "all": {
-      "words": 15924,
-      "chars": 97913,
-      "ideas": 276
+      "words": 15985,
+      "chars": 98293,
+      "ideas": 285
     },
     "chapters": {
       "words": 15874,
