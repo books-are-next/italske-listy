@@ -42,7 +42,7 @@ readingOrder:
   - italske_listy_029.html
   - italske_listy_030.html
   - italske_listy_031.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
