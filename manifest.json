@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-italske-listy-420c532",
-  "revision": "420c532",
+  "identifier": "capek-italske-listy-0338a4e",
+  "revision": "0338a4e",
   "readingOrder": [
     "promo.html",
     "italske_listy_005.html",
@@ -42,8 +42,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 08:28:30 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657182510273
+    "date": "Thu Jul 07 2022 10:01:29 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657188089747
   },
   "documents": [
     {
