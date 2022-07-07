@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-italske-listy-45c17cc",
-  "revision": "45c17cc",
+  "identifier": "capek-italske-listy-420c532",
+  "revision": "420c532",
   "readingOrder": [
     "promo.html",
     "italske_listy_005.html",
@@ -39,11 +39,11 @@
     "italske_listy_029.html",
     "italske_listy_030.html",
     "italske_listy_031.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:08:06 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655978886836
+    "date": "Thu Jul 07 2022 08:28:30 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182510273
   },
   "documents": [
     {
@@ -302,7 +302,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Od Palerma po Taorminu",
+          "name": "Od Palerma po Taorminu",
           "id": null,
           "children": []
         }
@@ -442,7 +442,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Janov a Milán",
+          "name": "Janov a Milán",
           "id": null,
           "children": []
         }
@@ -582,7 +582,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Život a doba spisovatele Karla Čapka v datech",
+          "name": "Život a doba spisovatele Karla Čapka v datech",
           "id": null,
           "children": []
         }
@@ -617,7 +617,7 @@
       "role": "chapter",
       "order": 27,
       "prev": "italske_listy_030.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -630,11 +630,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 129,
-      "chars": 863,
+      "chars": 862,
       "ideas": 16,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "italske_listy_031.html",
       "next": null,
@@ -652,7 +652,7 @@
   "totals": {
     "all": {
       "words": 16009,
-      "chars": 98452,
+      "chars": 98451,
       "ideas": 287
     },
     "chapters": {
