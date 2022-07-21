@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-italske-listy-0338a4e",
-  "revision": "0338a4e",
+  "identifier": "capek-italske-listy-86e5e5c",
+  "revision": "86e5e5c",
   "readingOrder": [
     "promo.html",
     "italske_listy_005.html",
@@ -42,8 +42,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 10:01:29 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657188089747
+    "date": "Thu Jul 21 2022 14:38:11 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658414291250
   },
   "documents": [
     {
@@ -632,7 +632,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 129,
-      "chars": 862,
+      "chars": 863,
       "ideas": 16,
       "role": "about",
       "order": null,
@@ -652,7 +652,7 @@
   "totals": {
     "all": {
       "words": 16009,
-      "chars": 98451,
+      "chars": 98452,
       "ideas": 287
     },
     "chapters": {
